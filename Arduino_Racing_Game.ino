@@ -1,6 +1,7 @@
 /*  Arduino Racing Game
  *  Programm is written by Mikhail 'Mautoz' Kuznetsov
  *  Mail: mikemautos@gmail.com
+ *  Youtube channel with a video about this program - https://youtube.com/@espdev
  *  
  *  I2C Display pins:
  *    SDA - A4
