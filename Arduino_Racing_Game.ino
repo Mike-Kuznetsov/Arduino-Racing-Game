@@ -1,7 +1,10 @@
 /*  Arduino Racing Game
  *  Programm is written by Mikhail 'Mautoz' Kuznetsov
- *  Mail: mikemautos@gmail.com
- *  Youtube channel with a video about this program - https://youtube.com/@espdev
+ *  Mail: mikesprogramms@gmail.com
+ *  Youtube channel with a video about the game - https://youtube.com/@espdev
+ *  You should have a manual in the folder with the program
+ *  Also you can download it here: https://github.com/Mike-Kuznetsov/Arduino-Racing-Game
+ *  And you need to have the LiquidCrystal_I2C library installed
  *  
  *  I2C Display pins:
  *    SDA - A4
